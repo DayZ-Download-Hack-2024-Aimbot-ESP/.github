@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <p style="font-size: 16px; color: #666; margin-top: 15px;">File size: ~120 MB</p>
+  <p style="font-size: 16px; color: #666; margin-top: 15px;">File size: ~117 MB</p>
 </div>
 
 ## 🚀 Unlock Your Full Potential in DayZ!
@@ -74,12 +74,10 @@ Don't miss out on your chance to dominate **DayZ**. With **DayZ Hack 2024**, you
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/eyL69RQ.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/6ToWppm.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/CwkRPVS.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/PSIQuFO.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/z8mdkbU.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/hIvm9vG.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/XfQy3ec.jpg" width="300" height="300" />
+  <img src="https://i.imgur.com/iwWAlc3.jpg" width="300" height="300" />
+  <img src="https://i.imgur.com/naJc0jS.jpg" width="300" height="300" />
+  <img src="https://i.imgur.com/K2zhD9T.jpg" width="300" height="300" />
 </div>
 
 ## 🔗 Tags
